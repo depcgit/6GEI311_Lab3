@@ -3,7 +3,7 @@
 ## Description
 Cours: 6GEI311 - Architecture des Logiciels
 
-Laboratoire 23: Création d'un interface en Python
+Laboratoire 3: Création d'un interface en Python
 
 Auteurs: Raphaëlle Martin (MARR24569507) et David-Emmanuel Perron-Chouinard (PERD17119702)
 
